@@ -18,7 +18,7 @@ order: 2
       margin: 0; padding: 0; height: 100%;
     }
     iframe {
-      width: 50vw;
+      width: 100vw;
       height: 100vh;
       border: none;
     }
