@@ -13,16 +13,6 @@ order: 2
     content="width=device-width, user-scalable=no, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
   />
   <title>PDF</title>
-  <style>
-    body, html {
-      margin: 0; padding: 0; height: 100%;
-    }
-    iframe {
-      width: 100vw;
-      height: 100vh;
-      border: none;
-    }
-  </style>
 </head>
 <body>
   <iframe
