@@ -12,12 +12,12 @@ order: 2
     name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
   />
-  <title>PDF</title>
+  <title>pdfforresume</title>
 </head>
 <body>
-  <iframe
-    src="https://drive.google.com/file/d/1AuQR3WN_IwBk5iIgGoaCnEvwwvTuEYqX/preview"
-    allow="autoplay"
-  ></iframe>
+  <div class="content">
+    <iframe src="https://drive.google.com/file/d/1AuQR3WN_IwBk5iIgGoaCnEvwwvTuEYqX/preview"
+style="width:100%; height:100vh;" frameborder="0"></iframe>
+  </div>
 </body>
 </html>
