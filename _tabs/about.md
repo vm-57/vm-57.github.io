@@ -18,4 +18,4 @@ Hey, my name is Varun! I'm currently a graduate student at Columbia University s
 - Competitive Fighting Games
 
 ## Contact Me
-Feel free to contact me at my email address (listed in the sidebar) if you have any questions or want to reach out.
+Feel free to contact me at my email address (listed in the sidebar) if you have any questions or want to reach out. I'm also available on LinkedIn at https://www.linkedin.com/in/varunmangla/.
