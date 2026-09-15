@@ -14,7 +14,6 @@ Hey, my name is Varun! I'm currently a graduate student at Columbia University s
 - Machine Learning
 - Problem Solving
 - Board, Card, and Video Games
-- Sci-Fi Novels
 - Competitive Fighting Games
 
 ## Contact Me
